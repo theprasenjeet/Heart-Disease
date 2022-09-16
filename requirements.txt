@@ -1,7 +1,0 @@
-numpy
-pandas
-streamlit
-mlxtend
-xgboost
-Cython
-scikit-learn==0.22.1
