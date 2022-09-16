@@ -12,7 +12,7 @@ model=pkl.load(open("final_model.p","rb"))
 
 
 
-st.set_page_config(page_title="Healthy Heart App",page_icon="⚕️",layout="centered",initial_sidebar_state="expanded")
+st.set_page_config(page_title="Healthy Heart App",page_icon="âš•ï¸",layout="centered",initial_sidebar_state="expanded")
 
 
 
@@ -86,7 +86,7 @@ html_temp = """
       
 # display the front end aspect
 st.markdown(html_temp, unsafe_allow_html = True) 
-st.subheader('by Prasen ')
+st.subheader('by Amlan Mohanty ')
       
 # following lines create boxes in which user can enter data required to make prediction
 age=st.selectbox ("Age",range(1,121,1))
