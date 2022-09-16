@@ -18,4 +18,4 @@
 # Live Demo
 ### Try the live demo of the project here:
 
-https://heart-health-predictors.herokuapp.com/
+https://theprasenjeet-heart-disease-app-e2zqt4.streamlitapp.com/
